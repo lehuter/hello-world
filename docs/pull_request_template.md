@@ -1,0 +1,3 @@
+- [ ] I have tested the changes
+- [ ] I have added comments in my code
+- [ ] making changes for merges and more
